@@ -1,0 +1,15 @@
+{
+  "name": "Neon Rect-Rush",
+  "revisionLabel": "Configure automated Android build system with GitHub Actions",
+  "description": "Forked from Rosebud AI Universal Project",
+  "mode": "Universal",
+  "exportDate": "2026-04-03T03:27:10.638Z",
+  "rosebudBuiltInSplash": {
+    "present": true,
+    "version": 1
+  },
+  "assetCount": 8,
+  "assetTypes": [
+    "image"
+  ]
+}
